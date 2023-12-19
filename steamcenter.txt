@@ -139,14 +139,14 @@ A = Scholars will study video production, post-production, audio engineering, an
 Q = What is the Full-Stack Development Pathway?
 A = Scholars will study IT Fundamentals, Front-End Development, Back-End Development, Full-Stack Integration. Projects are centered on building functional web applications, such as social media platforms, forums, and developer tools. Certifications include OSHA 10 CompTIA ITF+, Certiport ITS – HTML & CSS + Python, and Python Institute PCEP & PCAP.
 
-Q = 
-A = 
+Q = What is some of the languages that is learned in FSD?
+A = Python, HTML, CSS, JavaScript, SQL
 
-Q = 
-A = 
+Q = Where is the STEAM center located?
+A = 141 Flushing Avenue
 
-Q = 
-A = 
+Q = How is the STEAM center governed?
+A = It is a DOE governed school system.
 
-Q = 
-A = 
+Q = Does the STEAM center have parking?
+A = In the navy yard the Building has free parking.
